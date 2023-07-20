@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖  **hello-rails-back-end**](#--hello-rails-back-end)
+- [📖  **hello-rails-react**](#--hello-rails-react)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -20,10 +20,8 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖  <a name="budget-app">**hello-rails-back-end**</a>
-  A simple rails API that displays random messages on random_messages endpoint.
-
-  Check out my [hello-react-front-end](https://github.com/torobucci/hello-react-front-end) built using this API
+# 📖  <a name="budget-app">**hello-rails-react**</a>
+   A simple rails app that configures a react app inside it using webpack
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,12 +31,13 @@
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
     <li><a href="https://rubyonrails.org/">Rails</a></li>
     <li><a href="https://www.postgresql.org/">PostgreSql</a></li>
+    <li><a href="https://legacy.reactjs.org/docs/introducing-jsx.html">JSX</a></li>
   </ul>
 
 ### Key Features <a name="key-features"></a>
 
-- **Controller**
-- **random_messages endpoint**
+- **Rails API endpoint**
+- **React frontend UI**
 
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,7 +64,7 @@ Clone this repository to your desired folder:
 <ul>
 <li>cd my-folder</li>
 <li>
-  Clone this  <a href="https://github.com/torobucci/hello-rails-back-end.git">Repository</a> to your desired folder.
+  Clone this  <a href="https://github.com/torobucci/hello-rails-react.git">Repository</a> to your desired folder.
 </li>
 </ul>
 
@@ -74,7 +73,8 @@ Clone this repository to your desired folder:
 Install this project with:
 
 <ul>
-<li>bundle install</li>
+ <li>bundle install</li>
+ <li>yarn install</li>
 </ul>
 
 ### Usage
@@ -82,7 +82,8 @@ Install this project with:
 To run the project, execute the following command:
 
 <ul>
-<li>rails server</li>
+  <li>yarn build</li>
+  <li>rails server</li>
 </ul>
 
 ### Run tests
@@ -106,6 +107,7 @@ To run tests, run the following command:
 
 - More end points
 - API documentation
+- Improve frontend UI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,7 +115,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/torobucci/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/torobucci/hello-rails-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

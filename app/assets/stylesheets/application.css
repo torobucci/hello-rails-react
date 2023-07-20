@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+.container {
+  background-color: #b6afaf;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: 50px auto;
+  max-width: 400px;
+}
+
+.title {
+  color: #383737;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.message {
+  color: #036603;
+  font-size: 22px;
+}

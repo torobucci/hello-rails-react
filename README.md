@@ -2,7 +2,6 @@
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
 - [📖  **hello-rails-react**](#--hello-rails-react)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
